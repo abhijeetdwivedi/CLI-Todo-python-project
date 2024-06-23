@@ -16,7 +16,7 @@ A simple command-line based ToDo task manager written in Python. This applicatio
 
     ```sh
     https://github.com/abhijeetdwivedi/CLI-Todo-python-project.git
-    cd todo-task-manager
+    cd CLI-Todo-python-project
     ```
 
 2. Ensure you have Python 3 installed on your machine.
