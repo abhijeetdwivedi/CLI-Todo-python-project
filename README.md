@@ -15,7 +15,7 @@ A simple command-line based ToDo task manager written in Python. This applicatio
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/todo-task-manager.git
+    https://github.com/abhijeetdwivedi/CLI-Todo-python-project.git
     cd todo-task-manager
     ```
 
